@@ -14,7 +14,6 @@
 
 ## Миграция базы данных
 * Данные команды выполняются в сервисе`web`
-* `python manage.py makemigrations`
 * `python manage.py migrate`
 
 ## Создание суперпользователя
